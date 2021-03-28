@@ -1,10 +1,10 @@
 ### [Reo Yamanaka] (https://www.reo-yk.com)
 
 <a href="https://www.instagram.com/o_reo807/">
-  <img align="left" width="24px" src="https://raw.githubusercontent.com/reoyamanaka/image/master/Instagram.7gznlaewr700.svg" />
+  <img align="left" width="24px" src="icon/Instagram.svg" />
 </a>
 <a href="https://twitter.com/YamanakaReo">
-  <img align="left" width="26px" src="https://raw.githubusercontent.com/reoyamanaka/image/master/Twitter.46ooyhl0lbc0.svg" />
+  <img align="left" width="26px" src="icon/Twitter.svg" />
 </a>
 <br>
 <br>
