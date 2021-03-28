@@ -16,6 +16,5 @@
 <br>
 
 <p align="left">
-  <img heigth="195" src="https://github-readme-stats.vercel.app/api?username=reoyamanaka&show_icons=true&theme=synthwave" alt="reoyamanaka :: Profile Stats" />
   <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reoyamanaka&langs_count=10&theme=synthwave&layout=compact" alt="reoyamanaka :: Top Langs" />
 </p
