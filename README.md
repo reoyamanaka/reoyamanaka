@@ -1,4 +1,4 @@
-### [Reo Yamanaka] (https://www.reo-yk.com)
+### [Reo Yamanaka](https://www.reo-yk.com)
 
 <a href="https://www.instagram.com/o_reo807/">
   <img align="left" width="24px" src="icon/Instagram.svg" />
